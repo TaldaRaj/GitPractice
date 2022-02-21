@@ -3,7 +3,7 @@ public class Multiply{
         int a = 6;
         int b = 7;
 
-        system.out.println("The Sum is : " + (a+b));
+        system.out.println("The Product is : " + (a+b));
 
     }
 }
